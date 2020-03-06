@@ -49,9 +49,9 @@ Top 3 imports for SC
 ![Top 3 imports products for SC in three years](img/import_year_SC.png)
 
 Top 3 exports for SC
-![Top 3 exports products for SC in three years](img/export_years_SC.png)
+![Top 3 exports products for SC in three years](img/export_year_SC.png)
 
 ## Download Full Report
-If you want to see all results, please ![download the full report.](Santa Catarina Import-Export.pdf)
+If you want to see all results, please [download the full report.](Santa%20Catarina%20Import-Export.pdf)
 
 
