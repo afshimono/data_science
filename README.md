@@ -36,10 +36,10 @@ jupyter nbconvert --to pdf Santa\ Catarina\ Import-Export.ipynb --no-input
 
 ### 2019
 Imports as percentage per State
-!(img/import_percentage_2019.png)
+![Export Percentages for 2019](img/import_percentage_2019.png)
 
 Exports as percentage per State
-!(img/export_percentage_2019.png)
+![Import Percentages for 2019](img/export_percentage_2019.png)
 
 Top 3 for SC
 
