@@ -42,10 +42,16 @@ Exports as percentage per State
 ![Import Percentages for 2019](img/export_percentage_2019.png)
 
 Top 3 for SC
+![Top 3 products by month for SC](img/export_month_SC.png)
 
 ### 2017 - 2019
 Top 3 imports for SC
+![Top 3 imports products for SC in three years](img/import_year_SC.png)
 
 Top 3 exports for SC
+![Top 3 exports products for SC in three years](img/export_years_SC.png)
+
+## Download Full Report
+If you want to see all results, please ![download the full report.](Santa Catarina Import-Export.pdf)
 
 
