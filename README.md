@@ -26,7 +26,26 @@ In order to configure your Virtual Environment, please follow the steps:
 
 ## Generating PDF
 
+Execute the following command while in the root directory:
+```
+jupyter nbconvert --to pdf Santa\ Catarina\ Import-Export.ipynb --no-input
+```
 
 
 ## Results
+
+### 2019
+Imports as percentage per State
+!(img/import_percentage_2019.png)
+
+Exports as percentage per State
+!(img/export_percentage_2019.png)
+
+Top 3 for SC
+
+### 2017 - 2019
+Top 3 imports for SC
+
+Top 3 exports for SC
+
 
